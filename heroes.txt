@@ -1,0 +1,127 @@
+Strength
+Abaddon - strength, support, melee, medium
+Alchemist - strength, carry, melee, hard
+Axe - strength, carry, melee, easy
+Beastmaster - strength, utility, melee, medium
+Brewmaster - strength, utility, melee, medium
+Bristleback - strength, carry, melee, easy
+Centaur Warrunner - strength, carry, melee, medium
+Chaos Knight - strength, carry, melee, medium
+Clockwerk - strength, utility, melee, medium
+Dawnbreaker - strength, carry, melee, medium
+Doom - strength, utility, melee, hard
+Dragon Knight - strength, carry, melee, medium
+Earth Spirit - strength, support, melee, hard
+Earthshaker - strength, support, melee, medium
+Elder Titan - strength, support, melee, medium
+Huskar - strength, carry, ranged, medium
+Io - strength, support, ranged, hard
+Kunkka - strength, utility, melee, medium
+Legion Commander - strength, carry, melee, medium
+Lifestealer - strength, carry, melee, medium
+Lycan - strength, carry, melee, medium
+Magnus - strength, utility, melee, medium
+Marci - strength, utility, melee, medium
+Mars - strength, carry, melee, medium
+Night Stalker - strength, carry, melee, medium
+Omniknight - strength, support, melee, medium
+Phoenix - strength, support, ranged, medium
+Primal Beast - strength, carry, melee, medium
+Pudge - strength, carry, melee, medium
+Sand King - strength, utility, melee, medium
+Slardar - strength, carry, melee, medium
+Snapfire - strength, support, ranged, medium
+Spirit Breaker - strength, carry, melee, medium
+Sven - strength, carry, melee, medium
+Tidehunter - strength, utility, melee, medium
+Timbersaw - strength, utility, melee, medium
+Tiny - strength, utility, melee, medium
+Treant Protector - strength, support, melee, medium
+Tusk - strength, carry, melee, medium
+Underlord - strength, utility, melee, medium
+Undying - strength, support, melee, medium
+Wraith King - strength, carry, melee, easy
+Agility
+Anti-Mage - agility, carry, melee, medium
+Arc Warden - agility, carry, ranged, hard
+Bloodseeker - agility, carry, melee, medium
+Bounty Hunter - agility, utility, melee, medium
+Broodmother - agility, carry, melee, hard
+Clinkz - agility, carry, ranged, medium
+Drow Ranger - agility, carry, ranged, easy
+Ember Spirit - agility, carry, melee, hard
+Faceless Void - agility, carry, melee, medium
+Gyrocopter - agility, carry, ranged, medium
+Hoodwink - agility, utility, ranged, medium
+Juggernaut - agility, carry, melee, easy
+Lone Druid - agility, carry, ranged, hard
+Luna - agility, carry, ranged, easy
+Medusa - agility, carry, ranged, medium
+Meepo - agility, carry, melee, hard
+Mirana - agility, utility, ranged, medium
+Monkey King - agility, carry, melee, medium
+Morphling - agility, carry, ranged, medium
+Naga Siren - agility, carry, melee, medium
+Nyx Assassin - agility, utility, melee, medium
+Pangolier - agility, utility, melee, medium
+Phantom Assassin - agility, carry, melee, easy
+Phantom Lancer - agility, carry, melee, medium
+Razor - agility, carry, ranged, medium
+Riki - agility, utility, melee, medium
+Shadow Fiend - agility, carry, ranged, medium
+Slark - agility, carry, melee, medium
+Sniper - agility, carry, ranged, easy
+Spectre - agility, carry, melee, medium
+Templar Assassin - agility, carry, ranged, medium
+Terrorblade - agility, carry, melee, hard
+Troll Warlord - agility, carry, melee, medium
+Ursa - agility, carry, melee, easy
+Vengeful Spirit - agility, support, ranged, medium
+Venomancer - agility, utility, ranged, medium
+Viper - agility, carry, ranged, medium
+Weaver - agility, carry, ranged, medium
+Intelligence
+Ancient Apparition - intelligence, support, ranged, medium
+Bane - intelligence, support, ranged, medium
+Batrider - intelligence, utility, ranged, medium
+Chen - intelligence, support, ranged, hard
+Crystal Maiden - intelligence, support, ranged, easy
+Dark Seer - intelligence, utility, melee, medium
+Dark Willow - intelligence, support, ranged, medium
+Dazzle - intelligence, support, ranged, medium
+Death Prophet - intelligence, carry, ranged, medium
+Disruptor - intelligence, support, ranged, medium
+Enchantress - intelligence, support, ranged, medium
+Enigma - intelligence, utility, ranged, medium
+Grimstroke - intelligence, support, ranged, medium
+Hoodwink - intelligence, utility, ranged, medium
+Invoker - intelligence, utility, ranged, hard
+Jakiro - intelligence, support, ranged, medium
+Keeper of the Light - intelligence, support, ranged, medium
+Leshrac - intelligence, carry, ranged, medium
+Lich - intelligence, support, ranged, easy
+Lina - intelligence, carry, ranged, medium
+Lion - intelligence, support, ranged, medium
+Nature's Prophet - intelligence, utility, ranged, medium
+Necrophos - intelligence, carry, ranged, medium
+Ogre Magi - intelligence, support, melee, easy
+Oracle - intelligence, support, ranged, medium
+Outworld Devourer - intelligence, carry, ranged, medium
+Puck - intelligence, utility, ranged, medium
+Pugna - intelligence, utility, ranged, medium
+Queen of Pain - intelligence, carry, ranged, medium
+Rubick - intelligence, support, ranged, medium
+Shadow Demon - intelligence, support, ranged, medium
+Shadow Shaman - intelligence, support, ranged, medium
+Silencer - intelligence, utility, ranged, medium
+Skywrath Mage - intelligence, support, ranged, medium
+Storm Spirit - intelligence, carry, ranged, medium
+Techies - intelligence, utility, ranged, hard
+Tinker - intelligence, carry, ranged, hard
+Visage - intelligence, utility, ranged, medium
+Void Spirit - intelligence, carry, melee, medium
+Warlock - intelligence, support, ranged, medium
+Windranger - intelligence, carry, ranged, medium
+Winter Wyvern - intelligence, support, ranged, medium
+Witch Doctor - intelligence, support, ranged, medium
+Zeus - intelligence, carry, ranged, medium
